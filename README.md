@@ -32,3 +32,6 @@ You can also run Online Chess Game in Gitpod, a free online dev environment for 
 If you're intersted in a paid subscription with GitPod use the coupon code: **TECHWITHTIM2FQBMX**
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/Online-Chess-Game/blob/master/client.py)
+
+
+[![Run on Repl.it](https://repl.it/badge/github/DA820/Online-Chess-Game)](https://repl.it/github/DA820/Online-Chess-Game)
